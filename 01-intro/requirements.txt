@@ -6,3 +6,4 @@ pandas
 scikit-learn 
 ipywidgets
 minsearch
+qdrant-client[fastembed]>=1.14.2
